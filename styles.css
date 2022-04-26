@@ -3,3 +3,86 @@
     Make use of the class and/or id selectors to 
     select the element you want to style 
 */
+#block-a{
+    background-color: red;
+}
+
+#block-b {
+    background-color: white;
+}
+
+#block-c {
+background-color: blue;
+}
+
+.long{
+    background-color: yellow;
+}
+
+#block-d {
+    background-color: white;
+}
+
+.huge {
+    background: repeating-linear-gradient(
+  45deg,
+  yellow,
+  blue 10px,
+  red 20px,
+  red 10px
+)
+}
+
+#block-e {
+    background-color: red;
+}
+
+#block-f {
+    background-color: yellow;
+}
+
+#block-g {
+    background-color: yellow;
+}
+
+#block-h {
+    background-color: white;
+}
+
+#block-i {
+background-color: blue;
+}
+
+#block-j {
+    background-color: red;
+}
+
+#block-k {
+    background-color: red
+}
+
+#block-l {
+    background-color: white;
+}
+
+.medium {
+    background-color: yellow;
+}
+
+#block-m {
+    background-color: red;
+}
+
+#block-n {
+ background-color: white;
+}
+
+#block-o {
+    background-color: red;
+}
+
+#block-p {
+    background-color: blue;
+}
+
+
